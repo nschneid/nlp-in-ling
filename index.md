@@ -6,6 +6,10 @@ Universities are listed along with graduate programs and research areas of full-
 
 _NOTE: The list is not yet complete. To add your institution, edit [this file](https://github.com/nschneid/nlp-in-ling/tree/main/index.md)  and submit a pull request, or contact [Nathan Schneider](http://nathan.cl)._
 
+**[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]
+
+- [Marten van Schijndel](https://vansky.github.io/) - cognitive modeling, psycholinguistics, interpretability
+
 **[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [M.S./Ph.D. CompLing, M.S./Ph.D. Computer Science]
 
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation

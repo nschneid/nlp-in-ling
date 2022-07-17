@@ -19,7 +19,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
-**[University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html)**, Buffalo, NY, USA [M.S. Computational Linguistics /Ph.D. Linguistics]
+**[University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html)**, Buffalo, NY [M.S. Computational Linguistics, Ph.D. Linguistics]
 
 - [Cassandra Jacobs](https://cljacobs.net) - psycholinguistics, cognitive modeling, interpretability, annotation
 

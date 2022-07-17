@@ -1,4 +1,4 @@
-# NLP Research in North American Linguistics Departments
+# Computational Linguistics and NLP Research in North American Linguistics Departments
 
 This page highlights linguistics departments in North America where there is computational research aligned with the field of natural language processing (NLP). 
 Such research would generally be published in [ACL Anthology](https://aclanthology.org/) venues. 

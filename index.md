@@ -6,7 +6,7 @@ Universities are listed along with graduate programs and research areas of full-
 
 _NOTE: The list is not yet complete. To add your institution, edit [this file](https://github.com/nschneid/nlp-in-ling/tree/main/index.md)  and submit a pull request, or contact [Nathan Schneider](http://nathan.cl)._
 
-**[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [MS CompLing, Ph.D. CompLing]
+**[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [M.S./Ph.D. CompLing, M.S./Ph.D. Computer Science]
 
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse structure, coreference, Coptic

@@ -11,7 +11,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse structure, coreference, Coptic
 
-**New York University, [Linguistics]([http://gucl.georgetown.edu/](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
+**New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 

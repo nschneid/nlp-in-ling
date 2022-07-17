@@ -21,7 +21,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Jessy Li](https://jessyli.com/) - discourse processing, language generation, NLP in social contexts
 - [Kyle Mahowald](https://mahowak.github.io/) - linguistic structure in language models, communicative efficiency, psycholinguistics, typology
 
-**[Boston University](http://ling.bu.edu/)**, Boston, MA [Ph.D./M.A. Linguistics]
+**[Boston University](http://ling.bu.edu/)**, Boston, MA [M.A./Ph.D. Linguistics]
 
 - [Najoung Kim](https://najoungkim.github.io/) - human & machine cognitive science, computational approaches to meaning, NLP evaluation
 

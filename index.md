@@ -19,10 +19,15 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
+**[University of California, Berkeley](https://lx.berkeley.edu/)**, Berkeley, CA [Ph.D. Linguistics]
+
+- [Gasper Begus](https://gbegus.github.io/) - speech processing, phonology, interpretable deep learning, generative modeling
+
 **[The University of Texas at Austin](https://liberalarts.utexas.edu/linguistics/)**, Austin, TX [Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
 - [Katrin Erk](https://www.katrinerk.com/) - semantics, word embeddings, distributional methods
 - [Jessy Li](https://jessyli.com/) - discourse processing, language generation, NLP in social contexts
 - [Kyle Mahowald](https://mahowak.github.io/) - linguistic structure in language models, communicative efficiency, psycholinguistics, typology
+
 
 [^1]: If you are interested in starting a similar list for computational linguistics in another region or subfield, please reach out to [Nathan Schneider](http://nathan.cl)!

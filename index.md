@@ -44,6 +44,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Gasper Begus](https://gbegus.github.io/) - speech processing, phonology, interpretable deep learning, generative modeling
 
+**[University of California, Irvine](http://langsci.uci.edu/)**, Irvine, CA [Ph.D. Language Science, M.S./Ph.D. Computer Science]
+
+- [Richard Futrell](http://socsci.uci.edu/~rfutrell) - computational psycholinguistics, information theory, corpus linguistics, dependency treebanks, cognitive modeling
+- [Sameer Singh](https://sameersingh.org/) - robustness and interpretability of machine learning, reasoning with text and structure
+
+
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Aaron Steven White](http://aaronstevenwhite.io/) - semantics, lexical semantics, semantic parsing, information extraction

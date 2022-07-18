@@ -65,7 +65,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks
 - [Tom McCoy](https://rtmccoy.com/) (starting January 2024) - neural network interpretability and evaluation, syntax, modeling of acquisition
 
-**[Graduate Center, City University of New York](https://www.gc.cuny.edu/linguistics)**, New York, NY [Ph.D Linguistics, M.A. Linguistics, M.A. Computational Linguistics]
+**[Graduate Center, City University of New York](https://www.gc.cuny.edu/linguistics)**, New York, NY [M.A./Ph.D Linguistics, M.A. Computational Linguistics]
 
 - [Martin Chodorow](https://www.hunter.cuny.edu/psychology/people/faculty/cognitive-psychology/chodorow) - language acquisition, proofreading
 - [Elena Filatova](https://ef2020.commons.gc.cuny.edu/) - text mining, natural language processing

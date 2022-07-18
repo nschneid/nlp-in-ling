@@ -24,7 +24,6 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
 - [Timothy O'Donnell](http://people.linguistics.mcgill.ca/~timothy.odonnell/) - cognitive modeling, psycholinguistics, mathematical linguistics, probabilistic inference, interpretability
 
-
 **New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation

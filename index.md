@@ -52,7 +52,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 **[University of Florida](https://lin.ufl.edu/)**, Gainesville, FL [M.A./Ph.D. Linguistics]
 
 - [Sarah Moeller](https://sarahrmoeller.github.io/) - computational methods for language documentation/description and fieldwork, morphosyntax, human-in-the-loop
-- [Zoey Liu](https://zoeyliu18.github.io/)
+- [Zoey Liu](https://zoeyliu18.github.io/) - crosslinguistic variation, multilingual low-resource NLP, language technology and documentation
 
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 

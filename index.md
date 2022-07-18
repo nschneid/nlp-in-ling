@@ -14,6 +14,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Marten van Schijndel](https://vansky.github.io/) - cognitive modeling, psycholinguistics, interpretability
 
+**[George Mason University](https://linguistics.gmu.edu)**, Fairfax, VA [Ph.D. Linguistics]
+
+- [James P. Blevins](https://linguistics.gmu.edu/people/jblevin6) - morphology, syntax, quantitative linguistics, history of ideas
+- [Géraldine Walther](https://linguistics.gmu.edu/people/gwalthe) - typology, cognitive modeling, language documentation, morphology, syntax
+
 **[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [M.S./Ph.D. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation

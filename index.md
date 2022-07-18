@@ -39,7 +39,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Gasper Begus](https://gbegus.github.io/) - speech processing, phonology, interpretable deep learning, generative modeling
 
-**[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [Ph.D./M.A. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
+**[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Aaron Steven White](http://aaronstevenwhite.io/) - semantics, lexical semantics, semantic parsing, information extraction
 

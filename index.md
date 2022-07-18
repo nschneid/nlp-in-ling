@@ -1,7 +1,7 @@
 # Computational Linguistics and NLP Research in North American Linguistics Departments
 
-This page highlights linguistics departments in North America where there is computational research aligned with the field of natural language processing (NLP). 
-Such research would generally be published in [ACL Anthology](https://aclanthology.org/) venues.[^1] 
+This page highlights linguistics departments in North America where there is computational research aligned with the field of natural language processing (NLP).
+Such research would generally be published in [ACL Anthology](https://aclanthology.org/) venues.[^1]
 Universities are listed along with graduate programs and research areas of full-time faculty affiliated with linguistics.
 
 _NOTE: The list is not yet complete. To add your institution, edit [this file](https://github.com/nschneid/nlp-in-ling/tree/main/index.md)  and submit a pull request, or contact [Nathan Schneider](http://nathan.cl)._
@@ -53,6 +53,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell) - computational psycholinguistics, information theory, corpus linguistics, dependency treebanks, cognitive modeling
 - [Sameer Singh](https://sameersingh.org/) - robustness and interpretability of machine learning, reasoning with text and structure
+
+**[University of Chicago](https://linguistics.uchicago.edu)**, Chicago, IL [Ph.D. Linguistics]
+
+- [Allyson Ettinger](https://aetting.github.io) - analysis and evaluation of NLP systems, meaning extraction and predictive processing in humans and NLP systems, computational psycholinguistic modeling
 
 **[University of Florida](https://lin.ufl.edu/)**, Gainesville, FL [M.A./Ph.D. Linguistics]
 

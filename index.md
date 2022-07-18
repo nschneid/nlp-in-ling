@@ -49,6 +49,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell) - computational psycholinguistics, information theory, corpus linguistics, dependency treebanks, cognitive modeling
 - [Sameer Singh](https://sameersingh.org/) - robustness and interpretability of machine learning, reasoning with text and structure
 
+**[University of Florida](https://lin.ufl.edu/)**, Gainesville, FL [M.A./Ph.D. Linguistics]
+
+- [Sarah Moeller](https://sarahrmoeller.github.io/) - computational methods for language documentation/description and fieldwork, morphosyntax, human-in-the-loop
+- Zoey Liu
 
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 

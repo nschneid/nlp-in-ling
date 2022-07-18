@@ -19,7 +19,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse structure, coreference, Coptic
 
-**[McGill University](https://www.mcgill.ca/linguistics/)**, [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
+**[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
 - [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
 - [Timothy O'Donnell](http://people.linguistics.mcgill.ca/~timothy.odonnell/) - cognitive modeling, psycholinguistics, mathematical linguistics, probabilistic inference, interpretability

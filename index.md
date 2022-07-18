@@ -21,10 +21,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Stony Brook University](https://www.linguistics.stonybrook.edu/)**, Stony Brook, NY [M.A. Computational Linguistics, Ph.D. Linguistics]
 
-- [Thomas Graf](https://thomasgraf.net/) - Mathematical linguistics, syntax, phonology, psycholinguistics
-- [Jeffrey Heinz](http://jeffreyheinz.net/) - Phonology, linguistic typology, mathematical linguistics, computational learning theory, planning and control
+- [Thomas Graf](https://thomasgraf.net/) - mathematical linguistics, syntax, phonology, psycholinguistics
+- [Jeffrey Heinz](http://jeffreyheinz.net/) - phonology, linguistic typology, mathematical linguistics, computational learning theory, planning and control
 - [Jordan Kodner](https://jkodner05.github.io/) - cognitive modeling, language acquistion, historical linguistics, low-resource NLP and evaluation
-- [Owen Rambow](https://owenrambow.com/) - morphology, syntax, semantics for comp;utational linguistics and NLP
+- [Owen Rambow](https://owenrambow.com/) - morphology, syntax, semantics for computational linguistics and NLP
 - [Jiwon Yun](https://www.stonybrook.edu/commcms/linguistics/jiwonyun/index.html) - semantics, prosody, computational linguistics, cognitive science
 
 **[University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html)**, Buffalo, NY [M.S. Computational Linguistics, Ph.D. Linguistics]

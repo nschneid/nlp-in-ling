@@ -69,6 +69,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Jessy Li](https://jessyli.com/) - discourse processing, language generation, NLP in social contexts
 - [Kyle Mahowald](https://mahowak.github.io/) - linguistic structure in language models, communicative efficiency, psycholinguistics, typology
 
+**[The University of Utah](https://linguistics.utah.edu/)**, Salt Lake City, UT [M.A./Ph.D. Linguistics]
+
+- [Aniello De Santo](https://aniellodesanto.github.io/about/) - mathematical linguistics, psycholinguistics, cognitive modelling, syntax, phonology
+
 **[Yale University](https://ling.yale.edu/)**, New Haven, CT [Ph.D. Linguistics, Ph.D. Computer Science]
 
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks

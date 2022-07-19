@@ -10,6 +10,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Najoung Kim](https://najoungkim.github.io/) - human & machine cognitive science, computational approaches to meaning, NLP evaluation
 
+**[Brandeis University](https://www.brandeis.edu/computer-science/computational-linguistics/index.html)**, Waltham, MA [M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
+
+- [Constantine Lignos](https://lignos.org/) - natural language processing for less-resourced languages, annotation, morphology, language acquisition, psycholinguistics
+- [James Pustejovsky](https://jamespusto.com/) - natural language processing, lexical semantics, temporal and spatial reasoning, annotation, corpus linguistics
+- [Nianwen Xue](https://www.cs.brandeis.edu/~xuen/) - natural language processing, annotation, semantic role labeling, machine translation
+
 **[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]
 
 - [Mats Rooth](https://compling.cis.cornell.edu/mr249/) - semantics, prosody

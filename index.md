@@ -12,6 +12,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]
 
+- [Mats Rooth](https://compling.cis.cornell.edu/mr249/) - semantics, prosody
 - [Marten van Schijndel](https://vansky.github.io/) - cognitive modeling, psycholinguistics, interpretability
 
 **[George Mason University](https://linguistics.gmu.edu)**, Fairfax, VA [Ph.D. Linguistics]

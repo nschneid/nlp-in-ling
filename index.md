@@ -85,7 +85,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Jessy Li](https://jessyli.com/) - discourse processing, language generation, NLP in social contexts
 - [Kyle Mahowald](https://mahowak.github.io/) - linguistic structure in language models, communicative efficiency, psycholinguistics, typology
 
-**[University of Toronto](https://www.linguistics.utoronto.ca/)**, Toronto, Canada [M.A./Ph.D Linguistics]
+**[University of Toronto](https://www.linguistics.utoronto.ca/)**, Toronto, ON, Canada [M.A./Ph.D Linguistics]
 
 - [Ewan Dunbar](http://individual.utoronto.ca/ewan_dunbar/) - speech processing, phonetics, phonology, second-language perception
 - [Barend Beekhuizen](http://www.cs.toronto.edu/~barend/) - lexical semantics, cognitive science, language variation, typology, discourse analysis

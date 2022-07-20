@@ -61,6 +61,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell) - computational psycholinguistics, information theory, corpus linguistics, dependency treebanks, cognitive modeling
 - [Sameer Singh](https://sameersingh.org/) - robustness and interpretability of machine learning, reasoning with text and structure
 
+**[University of California, Santa Barbara](https://linguistics.ucsb.edu/)**, Santa Barbara, CA [Ph.D. Linguistics]
+
+- [Simon Todd](https://sjtodd.github.io/) - psycholinguistics, cognitive modeling, phonetics, phonology, morphology
+
 **[University of Chicago](https://linguistics.uchicago.edu)**, Chicago, IL [Ph.D. Linguistics]
 
 - [Allyson Ettinger](https://aetting.github.io) - analysis and evaluation of NLP systems, meaning extraction and predictive processing in humans and NLP systems, computational psycholinguistic modeling

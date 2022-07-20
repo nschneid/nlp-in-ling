@@ -29,7 +29,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 **[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [M.S./Ph.D. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
-- [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse structure, coreference, Coptic
+- [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 

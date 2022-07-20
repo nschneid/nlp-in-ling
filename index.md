@@ -95,6 +95,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Aniello De Santo](https://aniellodesanto.github.io/about/) - mathematical linguistics, psycholinguistics, cognitive modelling, syntax, phonology
 
+**[University of Washington](https://linguistics.washington.edu/)**, Seattle, WA [M.S. Computational Linguistics, Ph.D. Linguistics]
+ - [Emily M. Bender](http://faculty.washington.edu/ebender/) - multilingual grammar engineering, computational semantics, computational linguistic typology, societal impacts of language technology
+ - [Gina-Anne Levow](https://faculty.washington.edu/levow/) - low-resource NLP, multilingual NLP, speech processing, prosody  
+ - [Shane Steinert-Threlkeld](https://www.shane.st/) - computational approaches to semantics and typology, cognitive science + modeling, emergent communication, interpretability, multilingual NLP
+ - [Fei Xia](https://faculty.washington.edu/fxia/) - corpus development, morphology, syntax, low-resource NLP, bioNLP
+
 **[Yale University](https://ling.yale.edu/)**, New Haven, CT [Ph.D. Linguistics, Ph.D. Computer Science]
 
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks

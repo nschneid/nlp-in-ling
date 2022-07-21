@@ -51,6 +51,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
+**[San José State University](https://www.sjsu.edu/linguistics/index.php)**, San José, CA [Certificate in Computational Linguistics]
+
+- [Jon Rawski](https://www.jrawski.info/) - mathematical linguistics, learnability, phonology
+
 **[Stony Brook University](https://www.linguistics.stonybrook.edu/)**, Stony Brook, NY [M.A. Computational Linguistics, Ph.D. Linguistics]
 
 - [Thomas Graf](https://thomasgraf.net/) - mathematical linguistics, syntax, phonology, psycholinguistics

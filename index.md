@@ -16,6 +16,17 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [James Pustejovsky](https://jamespusto.com/) - natural language processing, lexical semantics, temporal and spatial reasoning, annotation, corpus linguistics
 - [Nianwen Xue](https://www.cs.brandeis.edu/~xuen/) - natural language processing, annotation, semantic role labeling, machine translation
 
+**[Graduate Center, City University of New York](https://www.gc.cuny.edu/linguistics)**, New York City [M.A./Ph.D Linguistics, M.A. Computational Linguistics]
+
+- [Martin Chodorow](https://www.hunter.cuny.edu/psychology/people/faculty/cognitive-psychology/chodorow) - language acquisition, proofreading
+- [Elena Filatova](https://ef2020.commons.gc.cuny.edu/) - text mining, natural language processing
+- [Kyle Gorman](https://wellformedness.com/) - phonology, morphology, finite-state methods, natural language processing
+- [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/) - spoken language processing, intonation, discourse analysis
+- [Sarah Ita Levitan](http://www.cs.columbia.edu/~sarahita/) - natural language processing, speech processing, dialogue, paralinguistics
+- [Michael Mandel](https://www.gc.cuny.edu/people/michael-mandel) - machine learning, speech processing
+- [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/) - natural language processing, machine learning
+- [William Sakas](https://www.hunter.cuny.edu/cs/Faculty/Sakas/) - natural language processing, machine learning, language acquisition
+
 **[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]
 
 - [Mats Rooth](https://compling.cis.cornell.edu/mr249/) - semantics, prosody
@@ -114,15 +125,5 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks
 - [Tom McCoy](https://rtmccoy.com/) (starting January 2024) - neural network interpretability and evaluation, syntax, modeling of acquisition
 
-**[Graduate Center, City University of New York](https://www.gc.cuny.edu/linguistics)**, New York City [M.A./Ph.D Linguistics, M.A. Computational Linguistics]
-
-- [Martin Chodorow](https://www.hunter.cuny.edu/psychology/people/faculty/cognitive-psychology/chodorow) - language acquisition, proofreading
-- [Elena Filatova](https://ef2020.commons.gc.cuny.edu/) - text mining, natural language processing
-- [Kyle Gorman](https://wellformedness.com/) - phonology, morphology, finite-state methods, natural language processing
-- [Rivka Levitan](http://www.sci.brooklyn.cuny.edu/~levitan/) - spoken language processing, intonation, discourse analysis
-- [Sarah Ita Levitan](http://www.cs.columbia.edu/~sarahita/) - natural language processing, speech processing, dialogue, paralinguistics
-- [Michael Mandel](https://www.gc.cuny.edu/people/michael-mandel) - machine learning, speech processing
-- [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/) - natural language processing, machine learning
-- [William Sakas](https://www.hunter.cuny.edu/cs/Faculty/Sakas/) - natural language processing, machine learning, language acquisition
 
 [^1]: If you are interested in starting a similar list for computational linguistics in another region or subfield, please reach out to [Nathan Schneider](http://nathan.cl)!

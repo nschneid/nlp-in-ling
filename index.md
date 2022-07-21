@@ -42,6 +42,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
+**[Indiana University](https://cl.indiana.edu/)**, Bloomington, IN [B.S., M.S., M.A., Ph.D. Computational Linguistics]
+
+- [Damir Ćavar](http://damir.cavar.me/)
+- [Sandra Kuebler](https://cl.indiana.edu/~skuebler/)
+- [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/)
+
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
 - [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
@@ -62,6 +68,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Jordan Kodner](https://jkodner05.github.io/) - cognitive modeling, language acquistion, historical linguistics, low-resource NLP and evaluation
 - [Owen Rambow](https://owenrambow.com/) - morphology, syntax, semantics for computational linguistics and NLP
 - [Jiwon Yun](https://www.stonybrook.edu/commcms/linguistics/jiwonyun/index.html) - semantics, prosody, computational linguistics, cognitive science
+
+**[Swarthmore College / Tri-College Consortium](https://www.swarthmore.edu/linguistics)**, Swarthmore, PA [B.A. in Linguistics]
+
+- [Jane Chandlee](https://chandlee.sites.haverford.edu/)
+- [Rikker Dockum](https://rikkerdockum.com/)
+- [Jonathan Washington](http://jnw.name) - phonetics, phonology, marginalised languages, finite-state morphology and phonology, dependency syntax, rule-based machine translation, Turkic languages, historical linguistics
 
 **[University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html)**, Buffalo, NY [M.S. Computational Linguistics, Ph.D. Linguistics]
 

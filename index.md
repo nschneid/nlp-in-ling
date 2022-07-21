@@ -94,6 +94,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [John Hale](https://linguistics.uga.edu/directory/people/john-hale) - computational neurolinguistics, cognitive modeling, parsing
 
+**[University of Pennsylvania](https://www.ling.upenn.edu/)**, Philadelphia, PA [M.A./Ph.D. Linguistics]
+
+- [Mark Liberman](https://www.ling.upenn.edu/~myl/): phonetics, phonology, speech technology, annotation, NLP applications in medicine and social sciences
+- [Mitch Marcus](https://www.cis.upenn.edu/~mitch/): parsing, acquisition, annotation, morphology 
+- [Charles Yang](https://www.ling.upenn.edu/~ycharles/) - language acquisition, processing, change
+
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Aaron Steven White](http://aaronstevenwhite.io/) - semantics, lexical semantics, semantic parsing, information extraction

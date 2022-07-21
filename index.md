@@ -51,6 +51,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
+**[San Diego State University](https://linguistics.sdsu.edu)**, San Diego, CA [Certificate in Computational Linguistics, Certificate in Text Analytics, M.A. Linguistics]
+
+- Gabe Doyle - psycholinguistics, pragmatics
+- [Mark Gawron](https://gawron.sdsu.edu) - machine translation, semantics
+- [Rob Malouf](http://malouf.sdsu.edu) - morphology, corpus linguistics, text mining
+
 **[San José State University](https://www.sjsu.edu/linguistics/index.php)**, San José, CA [Certificate in Computational Linguistics, M.A. Linguistics]
 
 - [Jon Rawski](https://www.jrawski.info/) - mathematical linguistics, learnability, phonology

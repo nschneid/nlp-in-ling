@@ -79,6 +79,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Sarah Moeller](https://sarahrmoeller.github.io/) - computational methods for language documentation/description and fieldwork, morphosyntax, human-in-the-loop
 - [Zoey Liu](https://zoeyliu18.github.io/) - crosslinguistic variation, multilingual low-resource NLP, language technology and documentation
 
+**[University of Georgia](https://linguistics.uga.edu/)**, Athens, GA [M.A./Ph.D. Linguistics]
+
+- [John Hale](https://linguistics.uga.edu/directory/people/john-hale) - computational neurolinguistics, cognitive modeling, parsing
+
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Aaron Steven White](http://aaronstevenwhite.io/) - semantics, lexical semantics, semantic parsing, information extraction

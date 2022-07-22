@@ -61,6 +61,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Jon Rawski](https://www.jrawski.info/) - mathematical linguistics, learnability, phonology
 
+**[Simon Fraser University](http://www.sfu.ca/linguistics.html)**, Simon Fraser University, Canada [M.A. Linguistics, Ph.D. Linguistics]
+
+- [Maite Taboada](http://www.sfu.ca/~mtaboada/) - discourse, discourse parsing, sentiment analysis, evaluative language, corpus linguistics
+
 **[Stony Brook University](https://www.linguistics.stonybrook.edu/)**, Stony Brook, NY [M.A. Computational Linguistics, Ph.D. Linguistics]
 
 - [Thomas Graf](https://thomasgraf.net/) - mathematical linguistics, syntax, phonology, psycholinguistics

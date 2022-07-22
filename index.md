@@ -42,11 +42,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
-**[Indiana University](https://cl.indiana.edu/)**, Bloomington, IN [B.S., M.S., M.A., Ph.D. Computational Linguistics]
+**[Indiana University](https://linguistics.indiana.edu/)**, Bloomington, IN [M.A./M.S./Ph.D. Computational Linguistics]
 
-- [Damir Ćavar](http://damir.cavar.me/)
-- [Sandra Kuebler](https://cl.indiana.edu/~skuebler/)
-- [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/)
+- [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/) - language technology, indigenous languages, parsing, speech recognition, morphosyntax
+- [Sandra Kübler](https://cl.indiana.edu/~skuebler/) - machine learning, parsing, abusive language detection, corpus linguistics
+- [Damir Ćavar](http://damir.cavar.me/) - semantics, knowledge graphs
 
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
@@ -55,11 +55,22 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 
+- [Sam Bowman](https://cims.nyu.edu/~sbowman/) - natural language understanding, alignment, evaluation, syntax, semantics
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
+
+**[San Diego State University](https://linguistics.sdsu.edu)**, San Diego, CA [Certificate in Computational Linguistics, Certificate in Text Analytics, M.A. Linguistics]
+
+- Gabe Doyle - psycholinguistics, pragmatics
+- [Mark Gawron](https://gawron.sdsu.edu) - machine translation, semantics
+- [Rob Malouf](http://malouf.sdsu.edu) - morphology, corpus linguistics, text mining
 
 **[San José State University](https://www.sjsu.edu/linguistics/index.php)**, San José, CA [Certificate in Computational Linguistics, M.A. Linguistics]
 
 - [Jon Rawski](https://www.jrawski.info/) - mathematical linguistics, learnability, phonology
+
+**[Simon Fraser University](http://www.sfu.ca/linguistics.html)**, Simon Fraser University, Burnaby, BC, Canada [M.A. Linguistics, Ph.D. Linguistics]
+
+- [Maite Taboada](http://www.sfu.ca/~mtaboada/) - discourse, discourse parsing, sentiment analysis, evaluative language, corpus linguistics
 
 **[Stony Brook University](https://www.linguistics.stonybrook.edu/)**, Stony Brook, NY [M.A. Computational Linguistics, Ph.D. Linguistics]
 

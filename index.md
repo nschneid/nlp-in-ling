@@ -82,8 +82,8 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Swarthmore College / Tri-College Consortium](https://www.swarthmore.edu/linguistics)**, Swarthmore, PA [B.A. in Linguistics]
 
-- [Jane Chandlee](https://chandlee.sites.haverford.edu/)
-- [Rikker Dockum](https://rikkerdockum.com/)
+- [Jane Chandlee](https://chandlee.sites.haverford.edu/) - phonology
+- [Rikker Dockum](https://rikkerdockum.com/) - phonology, historical linguistics, Southeast Asian languages
 - [Jonathan Washington](http://jnw.name) - phonetics, phonology, marginalised languages, finite-state morphology and phonology, dependency syntax, rule-based machine translation, Turkic languages, historical linguistics
 
 **[University at Buffalo](https://arts-sciences.buffalo.edu/linguistics.html)**, Buffalo, NY [M.S. Computational Linguistics, Ph.D. Linguistics]

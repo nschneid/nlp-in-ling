@@ -49,6 +49,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 
+- [Sam Bowman](https://cims.nyu.edu/~sbowman/) - natural language understanding, alignment, evaluation, syntax, semantics
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
 **[San Diego State University](https://linguistics.sdsu.edu)**, San Diego, CA [Certificate in Computational Linguistics, Certificate in Text Analytics, M.A. Linguistics]

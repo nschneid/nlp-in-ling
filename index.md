@@ -42,6 +42,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
+**[Indiana University](https://linguistics.indiana.edu/)**, Bloomington, IN [M.A./M.S./Ph.D. Computational Linguistics]
+
+- [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/) - language technology, indigenous languages, parsing, speech recognition, morphosyntax
+- [Sandra Kübler](https://cl.indiana.edu/~skuebler/) - machine learning, parsing, abusive language detection, corpus linguistics
+- [Damir Ćavar](http://damir.cavar.me/) - semantics, knowledge graphs
+
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
 - [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability

@@ -58,6 +58,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Sam Bowman](https://cims.nyu.edu/~sbowman/) - natural language understanding, alignment, evaluation, syntax, semantics
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
+**[The Ohio State University](https://linguistics.osu.edu/)**, Columbus, OH [Ph.D. Linguistics]
+
+- [Micha Elsner](https://u.osu.edu/elsner.14/) - computational phonetics, phonology and morphology; language acquisition
+- [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) - psycholinguistics; neurolinguistics; syntactic parsing and acquisition
+- [Michael White](https://u.osu.edu/white.1240/) - spoken dialogue systems; language generation; categorial grammars
+
 **[San Diego State University](https://linguistics.sdsu.edu)**, San Diego, CA [Certificate in Computational Linguistics, Certificate in Text Analytics, M.A. Linguistics]
 
 - Gabe Doyle - psycholinguistics, pragmatics

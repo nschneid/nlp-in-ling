@@ -78,6 +78,13 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Maite Taboada](http://www.sfu.ca/~mtaboada/) - discourse, discourse parsing, sentiment analysis, evaluative language, corpus linguistics
 
+**[Stanford University](https://linguistics.stanford.edu)**, Stanford, CA [M.S./Ph.D. Computer Science, M.A./Ph.D. Linguistics, M.S. Symbolic Systems]
+
+- [Judith Degen](https://thegricean.github.io) - experimental and computational semantics and pragmatics, psycholinguistics, cognitive science
+- [Dan Jurafsky](https://web.stanford.edu/~jurafsky) - natural language processing, speech recognition, computational social science, cognitive science
+- [Christopher Manning](https://nlp.stanford.edu/~manning/) - natural language processing, deep learning
+- [Christopher Potts](https://web.stanford.edu/~cgpotts/) - natural language processing, semantics, pragmatics, computational pragmatics
+
 **[Stony Brook University](https://www.linguistics.stonybrook.edu/)**, Stony Brook, NY [M.A. Computational Linguistics, Ph.D. Linguistics]
 
 - [Thomas Graf](https://thomasgraf.net/) - mathematical linguistics, syntax, phonology, psycholinguistics

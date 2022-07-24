@@ -58,6 +58,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Sam Bowman](https://cims.nyu.edu/~sbowman/) - natural language understanding, alignment, evaluation, syntax, semantics
 - [Tal Linzen](http://tallinzen.net) - cognitive modeling, psycholinguistics, interpretability, evaluation
 
+**[Northwestern University](https://linguistics.northwestern.edu/)**, Evanston, IL [Ph.D. Linguistics]
+
+- [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) - computational sociolinguistics, interaction and embodiment, computational social science, NLP for social good
+
 **[The Ohio State University](https://linguistics.osu.edu/)**, Columbus, OH [Ph.D. Linguistics]
 
 - [Micha Elsner](https://u.osu.edu/elsner.14/) - computational phonetics, phonology and morphology; language acquisition

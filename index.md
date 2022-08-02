@@ -139,6 +139,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [John Hale](https://linguistics.uga.edu/directory/people/john-hale) - computational neurolinguistics, cognitive modeling, parsing
 
+**[University of Maryland](https://linguistics.umd.edu/)**, College Park, MD [Ph.D. Linguistics]
+
+- [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/) - computational psycholinguistics
+- [Philip Resnik](http://users.umiacs.umd.edu/~resnik/) - computational social science, NLP for mental health, computational neurolinguistics/psycholinguistics
+
 **[University of Pennsylvania](https://www.ling.upenn.edu/)**, Philadelphia, PA [M.A./Ph.D. Linguistics]
 
 - [Mark Liberman](https://www.ling.upenn.edu/~myl/) - phonetics, phonology, speech technology, annotation, NLP applications in medicine and social sciences

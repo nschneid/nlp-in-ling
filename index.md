@@ -50,8 +50,9 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
-- [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
 - [Timothy O'Donnell](http://people.linguistics.mcgill.ca/~timothy.odonnell/) - cognitive modeling, psycholinguistics, mathematical linguistics, probabilistic inference, interpretability
+- [Siva Reddy](http://sivareddy.in/) - semantics, syntax, parsing, interpretability
+- [Morgan Sonderegger](http://people.linguistics.mcgill.ca/~morgan/) - phonetics, phonology, language change, speech technology, statistical methods
 
 **New York University, [Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) or [Data Science](https://cds.nyu.edu/)**, New York City [Ph.D. Linguistics, M.S./Ph.D. Data Science]
 

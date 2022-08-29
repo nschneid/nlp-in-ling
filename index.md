@@ -42,6 +42,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
+**[Johns Hopkins University](https://cogsci.jhu.edu/)**, Baltimore, MD [M.A./Ph.D. Cognitive Science]
+
+- [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) - embedding compositional linguistic structure and processing in deep neural NLP systems, Optimality Theory, Gradient Symbolic Computation, phonology
+
 **[Indiana University](https://linguistics.indiana.edu/)**, Bloomington, IN [M.A./M.S./Ph.D. Computational Linguistics]
 
 - [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/) - language technology, indigenous languages, parsing, speech recognition, morphosyntax

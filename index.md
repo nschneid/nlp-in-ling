@@ -116,6 +116,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Gasper Begus](https://gbegus.github.io/) - speech processing, phonology, interpretable deep learning, generative modeling
 
+**[University of California, Davis](https://linguistics.ucdavis.edu/)**, Davis, CA [M.A./Ph.D. Linguistics]
+
+- [Emily Morgan](https://sites.google.com/ucdavis.edu/eimorgan/) - computational psycholinguistics, sentence processing, language evolution, programming language comprehension
+- [Kenji Sagae](https://compling.ucdavis.edu/sagae/) - data-driven natural language processing, automatic analysis of child language, Human Language Technology applications, multimodal processing and human communication dynamics
+
 **[University of California, Irvine](http://langsci.uci.edu/)**, Irvine, CA [Ph.D. Language Science, M.S./Ph.D. Computer Science]
 
 - [Richard Futrell](http://socsci.uci.edu/~rfutrell) - computational psycholinguistics, information theory, corpus linguistics, dependency treebanks, cognitive modeling

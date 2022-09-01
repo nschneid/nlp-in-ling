@@ -44,7 +44,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Johns Hopkins University](https://cogsci.jhu.edu/)**, Baltimore, MD [M.A./Ph.D. Cognitive Science]
 
+- [Kyle Rawlins](https://rawlins.io/) - semantics/pragmatics, computational linguistics, semantic annotation
 - [Paul Smolensky](https://cogsci.jhu.edu/directory/paul-smolensky/) - embedding compositional linguistic structure and processing in deep neural NLP systems, Optimality Theory, Gradient Symbolic Computation, phonology
+- [Colin Wilson](https://colincwilson.github.io/) - theoretical and experimental phonology/phonetics, computational models of phonology, computational cognitive science
+- [Jason Eisner](https://www.cs.jhu.edu/~jason/) (joint appointment; primary in Computer Science) - NLP, machine learning, combinatorial algorithms, probabilistic models of linguistic structure, declarative specification of knowledge and algorithms
+- [Ben Van Durme](https://www.cs.jhu.edu/~vandurme/) (joint appointment; primary in Computer Science) - natural language processing, data mining, social media analysis, machine learning, linguistic semantics, and generally most things Artificial Intelligence or Cognitive Science
 
 **[Indiana University](https://linguistics.indiana.edu/)**, Bloomington, IN [M.A./M.S./Ph.D. Computational Linguistics]
 

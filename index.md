@@ -84,6 +84,12 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) - psycholinguistics; neurolinguistics; syntactic parsing and acquisition
 - [Michael White](https://u.osu.edu/white.1240/) - spoken dialogue systems; language generation; categorial grammars
 
+**[Rutgers University](https://ling.rutgers.edu)**, New Brunswick, NJ [Ph.D. Linguistics]
+
+- [Simon Charlow](https://simoncharlow.com/) - computational and formal semantics, semantic parsing, functional programming
+- [Adam Jardine](https://adamjardine.net/) - computational phonology, formal language theory, learning/grammatical inference
+- [Bruce Tesar](https://sites.rutgers.edu/bruce-tesar/) - computational learning, parsing, Optimality Theory, phonology
+
 **[San Diego State University](https://linguistics.sdsu.edu)**, San Diego, CA [Certificate in Computational Linguistics, Certificate in Text Analytics, M.A. Linguistics]
 
 - Gabe Doyle - psycholinguistics, pragmatics

@@ -125,7 +125,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Rikker Dockum](https://rikkerdockum.com/) - phonology, historical linguistics, Southeast Asian languages
 - [Jonathan Washington](http://jnw.name) - phonetics, phonology, marginalised languages, finite-state morphology and phonology, dependency syntax, rule-based machine translation, Turkic languages, historical linguistics
 
-**[University of British Columbia](https://linguistics.ubc.ca/)**, Vancouver, BC, Canada [[M.D.S. Computational Linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics), Ph.D. Linguistics]
+**[University of British Columbia](https://linguistics.ubc.ca/)**, Vancouver, BC, Canada [[M.D.S. Computational Linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics), M.A., Ph.D. Linguistics]
 
 - [Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/) - Arabic NLP, social media mining
 - [Miikka Silfverberg](https://mpsilfve.github.io/) - neural interpretation, low-resource languages

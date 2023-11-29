@@ -201,6 +201,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 **[The University of Utah](https://linguistics.utah.edu/)**, Salt Lake City, UT [M.A./Ph.D. Linguistics]
 
 - [Aniello De Santo](https://aniellodesanto.github.io/about/) - mathematical linguistics, psycholinguistics, cognitive modelling, syntax, phonology
+- [Caleb Belth](https://cbelth.github.io/) - phonology, linguistic representations, language acquisition, psycholinguistics, linguistic variation
 
 **[University of Washington](https://linguistics.washington.edu/)**, Seattle, WA [M.S. Computational Linguistics, Ph.D. Linguistics]
  - [Emily M. Bender](http://faculty.washington.edu/ebender/) - multilingual grammar engineering, computational semantics, computational linguistic typology, societal impacts of language technology

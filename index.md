@@ -153,10 +153,6 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Simon Todd](https://sjtodd.github.io/) - psycholinguistics, cognitive modeling, phonetics, phonology, morphology
 
-**[University of Chicago](https://linguistics.uchicago.edu)**, Chicago, IL [Ph.D. Linguistics]
-
-- [Allyson Ettinger](https://aetting.github.io) - analysis and evaluation of NLP systems, meaning extraction and predictive processing in humans and NLP systems, computational psycholinguistic modeling
-
 **[University of Colorado Boulder](https://www.colorado.edu/linguistics/)**, Boulder, CO [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
 - [Mans Hulden](https://verbs.colorado.edu/~mahu0110/) - modeling and learning natural language structure, particularly in the domains of morphology and phonology, using formal and machine learning methods

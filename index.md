@@ -208,7 +208,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 **[Yale University](https://ling.yale.edu/)**, New Haven, CT [Ph.D. Linguistics, Ph.D. Computer Science]
 
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks
-- [Tom McCoy](https://rtmccoy.com/) (starting January 2024) - neural network interpretability and evaluation, syntax, modeling of acquisition
+- [Tom McCoy](https://rtmccoy.com/) - neural network interpretability and evaluation, syntax, modeling of acquisition
 
 
 [^1]: If you are interested in starting a similar list for computational linguistics in another region or subfield, please reach out to [Nathan Schneider](http://nathan.cl)!

@@ -55,6 +55,8 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Francis M. Tyers](http://xixona.dlsi.ua.es/~fran/) - language technology, indigenous languages, parsing, speech recognition, morphosyntax
 - [Sandra Kübler](https://cl.indiana.edu/~skuebler/) - machine learning, parsing, abusive language detection, corpus linguistics
 - [Damir Ćavar](http://damir.cavar.me/) - semantics, knowledge graphs
+- [Shuju Shi](https://scholar.google.com/citations?user=SGZk95cAAAAJ&hl=en) - speech information processing, acoustic phonetics, computer aided language learning, language acquisition
+- [Luke Gessler](https://lgessler.com) - low-resource natural language processing, computational language resources, linguistic annotation, language documentation
 
 **[McGill University](https://www.mcgill.ca/linguistics/)**, Montreal, QC, Canada [M.A./Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 

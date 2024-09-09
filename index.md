@@ -39,7 +39,8 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Georgetown University](http://gucl.georgetown.edu/)**, Washington, DC [M.S./Ph.D. Computational Linguistics, M.S./Ph.D. Computer Science]
 
-- [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation
+- [Nathan Schneider](http://nathan.cl) - semantics, syntax, corpora, parsing, evaluation, legal interpretation
+- [Ethan Wilcox](https://wilcoxeg.github.io/) - psycholinguistics, machine learning, language processing, language acquisition, interpretability, and assessment of NLP systems
 - [Amir Zeldes](https://corpling.uis.georgetown.edu/amir/) - corpora, discourse, coreference, Digital Humanities, Coptic
 
 **[Johns Hopkins University](https://cogsci.jhu.edu/)**, Baltimore, MD [M.A./Ph.D. Cognitive Science]

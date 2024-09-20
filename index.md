@@ -181,8 +181,9 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Mitch Marcus](https://www.cis.upenn.edu/~mitch/) - parsing, acquisition, annotation, morphology 
 - [Charles Yang](https://www.ling.upenn.edu/~ycharles/) - language acquisition, processing, change
 
-**[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
+**[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science, M.S. Data Science]
 
+- [C.M. Downey](https://cmdowney88.github.io/) - low-resource NLP, technology for endangered languages and field linguistics, multilingual NLP, morphology
 - [Aaron Steven White](http://aaronstevenwhite.io/) - semantics, lexical semantics, semantic parsing, information extraction
 
 **[The University of Texas at Austin](https://liberalarts.utexas.edu/linguistics/)**, Austin, TX [Ph.D. Linguistics, M.S./Ph.D. Computer Science]

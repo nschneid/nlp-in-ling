@@ -158,7 +158,6 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[University of Colorado Boulder](https://www.colorado.edu/linguistics/)**, Boulder, CO [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science]
 
-- [Mans Hulden](https://verbs.colorado.edu/~mahu0110/) - modeling and learning natural language structure, particularly in the domains of morphology and phonology, using formal and machine learning methods
 - [Alexis Palmer](https://www.colorado.edu/linguistics/alexis-palmer) - computational methods for endangered and low-resource languages and for language documentation, computational discourse and semantics, meaning representations, linguistically-informed NLP, offensive language detection
 
 **[University of Florida](https://lin.ufl.edu/)**, Gainesville, FL [M.A./Ph.D. Linguistics]

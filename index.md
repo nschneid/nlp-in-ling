@@ -89,7 +89,6 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Rutgers University](https://ling.rutgers.edu)**, New Brunswick, NJ [Ph.D. Linguistics]
 
-- [Simon Charlow](https://simoncharlow.com/) - computational and formal semantics, semantic parsing, functional programming
 - [Adam Jardine](https://adamjardine.net/) - computational phonology, formal language theory, learning/grammatical inference
 - [Bruce Tesar](https://sites.rutgers.edu/bruce-tesar/) - computational learning, parsing, Optimality Theory, phonology
 
@@ -210,6 +209,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Yale University](https://ling.yale.edu/)**, New Haven, CT [Ph.D. Linguistics, Ph.D. Computer Science]
 
+- [Simon Charlow](https://simoncharlow.com/) - computational and formal semantics, semantic parsing, functional programming
 - [Robert Frank](https://bobfrank1.github.io/) - mathematical linguistics, syntax, analysis of neural networks
 - [Tom McCoy](https://rtmccoy.com/) - neural network interpretability and evaluation, syntax, modeling of acquisition
 

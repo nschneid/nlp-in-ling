@@ -101,6 +101,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[San José State University](https://www.sjsu.edu/linguistics/index.php)**, San José, CA [Certificate in Computational Linguistics, M.A. Linguistics]
 
+- [Hahn Koo](https://www.sjsu.edu/faculty/hahn.koo/) - speech processing, phonetics
 - [Jon Rawski](https://www.jrawski.info/) - mathematical linguistics, learnability, phonology
 
 **[Simon Fraser University](http://www.sfu.ca/linguistics.html)**, Simon Fraser University, Burnaby, BC, Canada [M.A. Linguistics, Ph.D. Linguistics]
@@ -127,6 +128,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Jane Chandlee](https://chandlee.sites.haverford.edu/) - phonology
 - [Rikker Dockum](https://rikkerdockum.com/) - phonology, historical linguistics, Southeast Asian languages
 - [Jonathan Washington](http://jnw.name) - phonetics, phonology, marginalised languages, finite-state morphology and phonology, dependency syntax, rule-based machine translation, Turkic languages, historical linguistics
+
+**[Universidad Nacional Autónoma de México](https://ceiich.unam.mx/)**, CDMX, Mexico [M.A., Ph.D. Linguistics / Computer Science]
+- [María Ximena Gutiérrez Vásques](https://sites.google.com/site/xgutierrezv/) - computational typology, morphology, multilingual NLP
+- [Gerardo Eugenio Sierra Martínez](https://www.iingen.unam.mx/es-mx/Investigacion/Academicos/Paginas/GSierraM.aspx) - text mining, information retrieval, terminology
 
 **[University of British Columbia](https://linguistics.ubc.ca/)**, Vancouver, BC, Canada [[M.D.S. Computational Linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics), M.A., Ph.D. Linguistics]
 

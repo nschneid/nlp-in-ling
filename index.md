@@ -136,6 +136,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 **[University of British Columbia](https://linguistics.ubc.ca/)**, Vancouver, BC, Canada [[M.D.S. Computational Linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics), M.A., Ph.D. Linguistics]
 
 - [Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/) - Arabic NLP, social media mining
+- [Isabel Papadimitriou](https://www.isabelpapad.com/) - interpretability, structure and meaning in language models
 - [Miikka Silfverberg](https://mpsilfve.github.io/) - neural interpretation, low-resource languages
 - [Jian Zhu](https://lingjzhu.github.io/) - semi-supervised speech processing
 

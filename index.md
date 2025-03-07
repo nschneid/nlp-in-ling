@@ -27,6 +27,11 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/) - natural language processing, machine learning
 - [William Sakas](https://www.hunter.cuny.edu/cs/Faculty/Sakas/) - natural language processing, machine learning, language acquisition
 
+**[Carnegie Mellon University](https://lti.cmu.edu/)**, Pittsburgh, PA [Ph.D. Language Technologies Institute]
+
+- [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/) - phonetics, phonology, morphology, emergent communication
+- [Lori Levin](https://www.cs.cmu.edu/~lsl/) - syntax, morphosyntax, low-resource languages
+
 **[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]
 
 - [Mats Rooth](https://compling.cis.cornell.edu/mr249/) - semantics, prosody

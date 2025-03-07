@@ -29,7 +29,7 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[Carnegie Mellon University](https://lti.cmu.edu/)**, Pittsburgh, PA [Ph.D. Language and Information Technology]
 
-- [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/) - phonetics, phonology, morphology, emergent communication
+- [David R. Mortensen](https://www.cs.cmu.edu/~dmortens/) - phonetics, phonology, morphology, emergent communication, computational historical linguistics, accessible speech and language technologies
 - [Lori Levin](https://www.cs.cmu.edu/~lsl/) - syntax, morphosyntax, low-resource languages
 
 **[Cornell University](https://linguistics.cornell.edu/)**, Ithaca, NY [Ph.D. Linguistics]

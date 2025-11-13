@@ -191,6 +191,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Mitch Marcus](https://www.cis.upenn.edu/~mitch/) - parsing, acquisition, annotation, morphology 
 - [Charles Yang](https://www.ling.upenn.edu/~ycharles/) - language acquisition, processing, change
 
+**[University of Pittsburgh](https://www.linguistics.pitt.edu)**, Pittsburgh, PA [M.A./Ph.D. Linguistics]
+
+- [Yang Janet Liu](https://janetlauyeung.github.io) - discourse processing, dicourse-aware NLP/NLG, text variation in NLP, linguistic evaluation and interpretability of (L)LMs, linguistic annotation
+
 **[University of Rochester](http://www.sas.rochester.edu/lin/)**, Rochester, NY [M.A./Ph.D. Linguistics, M.S. Computational Linguistics, M.S./Ph.D. Computer Science, M.S. Data Science]
 
 - [C.M. Downey](https://cmdowney88.github.io/) - low-resource NLP, technology for endangered languages and field linguistics, multilingual NLP, morphology

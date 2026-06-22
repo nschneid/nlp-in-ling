@@ -185,6 +185,9 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 - [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/) - computational psycholinguistics
 - [Philip Resnik](http://users.umiacs.umd.edu/~resnik/) - computational social science, NLP for mental health, computational neurolinguistics/psycholinguistics
 
+**[University of Massachusetts Amherst](https://www.umass.edu/linguistics/)**, Amherst, MA [Ph.D. Linguistics]
+- [Katrin Erk](https://www.katrinerk.com/) - semantics, word embeddings, distributional methods
+
 **[University of Pennsylvania](https://www.ling.upenn.edu/)**, Philadelphia, PA [M.A./Ph.D. Linguistics]
 
 - [Mark Liberman](https://www.ling.upenn.edu/~myl/) - phonetics, phonology, speech technology, annotation, NLP applications in medicine and social sciences
@@ -202,9 +205,10 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 **[The University of Texas at Austin](https://liberalarts.utexas.edu/linguistics/)**, Austin, TX [Ph.D. Linguistics, M.S./Ph.D. Computer Science]
 
-- [Katrin Erk](https://www.katrinerk.com/) - semantics, word embeddings, distributional methods
+
 - [Jessy Li](https://jessyli.com/) - discourse processing, language generation, NLP in social contexts
 - [Kyle Mahowald](https://mahowak.github.io/) - linguistic structure in language models, communicative efficiency, psycholinguistics, typology
+- [Kanishka Misra](https://kanishka.website) - linguistic generalization, language acquisition, semantic cognition.
 
 **[University of Toronto](https://www.linguistics.utoronto.ca/)**, Toronto, ON, Canada [M.A./Ph.D Linguistics]
 
